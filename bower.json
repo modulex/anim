@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "modulex": "*",
-    "feature": "modulex/feature#1.x",
-    "dom": "modulex/dom#1.x",
-    "promise": "modulex/promise#1.x",
-    "util": "modulex/util#1.x"
+    "modulex-feature": "modulex/feature#1.x",
+    "modulex-dom": "modulex/dom#1.x",
+    "modulex-promise": "modulex/promise#1.x",
+    "modulex-util": "modulex/util#1.x"
   },
   "ignore": [
     "**/*",
