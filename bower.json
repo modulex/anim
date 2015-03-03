@@ -7,7 +7,7 @@
     "url": "http://github.com/kissyteam/anim.git"
   },
   "dependencies": {
-    "modulex": "*",
+    "modulex": "modulex/modulex#*",
     "modulex-feature": "modulex/feature#1.x",
     "modulex-dom": "modulex/dom#1.x",
     "modulex-promise": "modulex/promise#1.x",
