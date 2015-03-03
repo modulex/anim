@@ -1,6 +1,6 @@
 {
   "name": "modulex-anim",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "yiminghe <yiminghe@gmail.com>",
   "engines": {
     "node": ">=0.11"
@@ -53,12 +53,5 @@
     "browser-test": "mocha-phantomjs http://localhost:8016/tests/browser/runner.html",
     "browser-test-build": "mocha-phantomjs http://localhost:8016/tests/browser/runner.html?build",
     "browser-test-cover": "mocha-phantomjs -R node_modules/node-jscover/lib/reporters/mocha/console http://localhost:8016/tests/browser/runner.html?coverage"
-  },
-  "dependencies": {
-    "modulex/dom": "^1.0.0",
-    "modulex/feature": "^1.0.1",
-    "modulex/promise": "^1.0.0",
-    "modulex/querystring": "^1.0.1",
-    "modulex/util": "^1.1.0"
   }
 }

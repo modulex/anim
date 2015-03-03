@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "modulex": "*",
-    "feature": "modulex-feature#1.x",
-    "dom": "modulex-dom#1.x",
-    "promise": "modulex-promise#1.x",
-    "util": "modulex-util#1.x"
+    "feature": "modulex/feature#1.x",
+    "dom": "modulex/dom#1.x",
+    "promise": "modulex/promise#1.x",
+    "util": "modulex/util#1.x"
   },
   "ignore": [
     "**/*",
@@ -21,6 +21,6 @@
     "!index.js"
   ],
   "devDependencies": {
-    "modulex-color": "modulex-color#1.x"
+    "modulex-color": "modulex/color#1.x"
   }
 }
